@@ -1,6 +1,6 @@
 ![party.js](http://i.imgur.com/sYMZSP5.png)
 
-*Latest: v0.1*
+*Latest: v0.1 - Requires jQuery*
 
 A simple library of methods that liven up the internet
 #####Features
